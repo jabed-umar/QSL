@@ -1,2 +1,2 @@
 # QSL
-Repo containing all my codes for the VSRP programme (2024) of TIFR, Hyderabad where I have worked on Quantum Spin Liquid (QSL) under Dr. Darshan Joshi
+Repo containing all my codes for the VSRP programme (2024) of TIFR, Hyderabad, where I have worked on Quantum Spin Liquid (QSL) under Prof. Darshan Joshi. This study includes the U(1) and Z_2 spin liquid states in a square lattice. This code computed the mean field parameters, chemical potentials, etc, self-consistently. It also computes the Magnetization and magnetic susceptibility of the system under a finite magnetic field along the z-direction. 
